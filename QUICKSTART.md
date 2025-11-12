@@ -31,9 +31,6 @@ redis-cli --version  # Should show 7.x or higher
 ## Step 1: Clone Repository (2 minutes)
 
 ```bash
-# Navigate to your development directory
-cd "/Users/vquinones/Q Dropbox/FutureTranz/Technology/Dev"
-
 # Clone the repository
 git clone https://github.com/FutureTranz-Inc/q-ai-msp-password-generator.git
 

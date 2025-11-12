@@ -37,7 +37,6 @@ Enterprise-grade automated password generation webapp for MSPs managing multiple
 
 ```bash
 # Clone repository
-cd "/Users/vquinones/Q Dropbox/FutureTranz/Technology/Dev"
 git clone https://github.com/FutureTranz-Inc/q-ai-msp-password-generator.git
 cd q-ai-msp-password-generator
 

@@ -54,11 +54,11 @@ gh repo create FutureTranz-Inc/q-ai-msp-password-generator \
 
 ## Step 2: Connect Local Repository to GitHub
 
-### If starting from existing local repository (current situation):
+### If starting from existing local repository:
 
 ```bash
 # Navigate to project directory
-cd "/Users/vquinones/Q Dropbox/FutureTranz/Technology/Dev/q-ai-msp-password-generator"
+cd q-ai-msp-password-generator
 
 # Verify current git status
 git status
@@ -122,10 +122,10 @@ bash ai-dev-tasks/scripts/install-hooks.sh
 ### Repository Access
 
 1. Navigate to "Settings" → "Collaborators and teams"
-2. Add team members:
-   - **Admin access:** Victor Quinones (vquinones)
-   - **Write access:** FutureTranz Development Team
-   - **Read access:** Q-AI-MSP Product Team
+2. Add team members as needed:
+   - **Admin access:** Repository owners and maintainers
+   - **Write access:** Core development team
+   - **Read access:** Product and QA teams
 
 ### Security Settings
 
