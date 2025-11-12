@@ -6,6 +6,8 @@
 **Created:** 2025-11-12
 **Owner:** FutureTranz Technology Team
 **Type:** Q-AI-MSP Add-on Module
+**Repository:** https://github.com/FutureTranz-Inc/q-ai-msp-password-generator
+**License:** Proprietary
 
 ---
 
