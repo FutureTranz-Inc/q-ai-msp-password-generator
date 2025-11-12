@@ -67,3 +67,5 @@ config.secret.ts
 
 # Docker
 docker-compose.override.yml
+
+# ai-dev-tasks is a git submodule (managed separately)
